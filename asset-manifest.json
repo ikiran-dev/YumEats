@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/YumEats/static/css/main.6e3c9624.css",
-    "main.js": "/YumEats/static/js/main.3fb9cf03.js",
+    "main.css": "/YumEats/static/css/main.9868b1d1.css",
+    "main.js": "/YumEats/static/js/main.26bcef80.js",
     "index.html": "/YumEats/index.html",
-    "main.6e3c9624.css.map": "/YumEats/static/css/main.6e3c9624.css.map",
-    "main.3fb9cf03.js.map": "/YumEats/static/js/main.3fb9cf03.js.map"
+    "main.9868b1d1.css.map": "/YumEats/static/css/main.9868b1d1.css.map",
+    "main.26bcef80.js.map": "/YumEats/static/js/main.26bcef80.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e3c9624.css",
-    "static/js/main.3fb9cf03.js"
+    "static/css/main.9868b1d1.css",
+    "static/js/main.26bcef80.js"
   ]
 }
