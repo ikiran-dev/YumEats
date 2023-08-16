@@ -7,3 +7,9 @@
     @apply border border-black rounded-xl px-5 py-1;
   }
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
